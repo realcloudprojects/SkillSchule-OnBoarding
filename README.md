@@ -1,19 +1,60 @@
-# Required Software & Important links
-## Introduction
-The project comprises pre-project tasks and also the task itself. The pre-project task contains a valuable toolkit that an apprentice may have acquired in the past. These competencies will prove advantageous as they transition into a more hands-on role as an apprentice. Consequently, revisiting these skills is of paramount importance. Each activity will be meticulously documented in a GitHub repository.
+# SkillShule-Cloud-Computing-Cohort -Q4 2023Class 
 
-## Main Project
-Build Your Resume on Azure with Blob Storage, Functions, CosmosDB, and GitHub
+## Introduction
+This is a high-level instructor-led virtual class designed to take participants from beginner to advanced level in Microsoft Azure.
+
+# Class Rules and Regulations
+
+## Punctuality: 
+Students must log in on time for scheduled online classes.
+Notify the teacher in advance if you cannot attend a class.
+
+## Respect and Courtesy:
+
+Treat the instructor and fellow students with respect in all communications.
+Raise your hand or use the chat feature to ask questions or make comments.
+
+## No Distractions:
+
+Find a quiet, well-lit space for attending classes.
+Avoid multitasking or using social media during class.
 
 ## Technical Requirements:
 
 Ensure your device and internet connection are reliable.
 Familiarize yourself with the online platform and required software.
 
+## Homework and Assignments:
 
+Complete assignments and homework on time.
+Submit assignments through the designated online platform.
+
+## Participation:
+Engage actively in class discussions, activities, and group work.
+
+## Attendance:
+Regularly attend all scheduled classes.
+Notify the instructor/teaching Assistant in advance if you will be absent.
+
+## Respect Deadlines:
+Adhere to project, assignment, and test deadlines.
+
+## Communication:
+
+Check your messaging platform regularly for updates and announcements.
 
 ## Feedback:
 Provide constructive feedback to the instructor to help improve the online learning experience. If you need help send the coach a message: raphael@rdgmh.onmicrosoft.com
+
+
+# Other Class Assets
+
+
+## Technical Requirements:
+
+Ensure your device and internet connection are reliable.
+Familiarize yourself with the online platform and required software.
+
 
 
 # Useful Assets & Links 
