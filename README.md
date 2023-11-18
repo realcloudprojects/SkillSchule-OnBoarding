@@ -58,6 +58,8 @@ Provide constructive feedback to the instructor to help improve the online learn
 Ensure your device and internet connection are reliable.
 Familiarize yourself with the online platform and required software.
 
+# Assets & other links
+
 ## C# with freecode camp
 https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft
 
