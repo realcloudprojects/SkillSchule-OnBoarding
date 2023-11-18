@@ -19,10 +19,16 @@ Raise your hand or use the chat feature to ask questions or make comments.
 Find a quiet, well-lit space for attending classes.
 Avoid multitasking or using social media during class.
 
+# Class time
+10PM Australian time for those in Australia & 9PM Nigerian time for those in the UK & North America
+
 ## Technical Requirements:
 
 Ensure your device and internet connection are reliable.
 Familiarize yourself with the online platform and required software.
+
+## Payment
+$80 or 80,000 naira out of the amount you paid for training will be used to get you an Exam voucher. So, make sure you are not owning if you want to write a professional exam associated with the training, in case there are no free vouchers.
 
 ## Homework and Assignments:
 
@@ -47,17 +53,10 @@ Check your messaging platform regularly for updates and announcements.
 Provide constructive feedback to the instructor to help improve the online learning experience. If you need help send the coach a message: raphael@rdgmh.onmicrosoft.com
 
 
-# Other Class Assets
-
-
 ## Technical Requirements:
 
 Ensure your device and internet connection are reliable.
 Familiarize yourself with the online platform and required software.
-
-
-
-# Useful Assets & Links 
 
 ## C# with freecode camp
 https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft
