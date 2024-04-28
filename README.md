@@ -13,6 +13,9 @@ Notify the teacher in advance if you cannot attend a class.
 
 Treat the instructor and fellow students with respect in all communications.
 Raise your hand or use the chat feature to ask questions or make comments.
+Please I would like everyone to understand that your classmates come from different cultures and they stay in different countries  
+and as such they might not understand certain practices that we Nigerians are used to, do not write thank you sir to the trainer in  
+the whatsapp group, you can always send him a message to do so if need be.
 
 ## No Distractions:
 
@@ -20,12 +23,12 @@ Find a quiet, well-lit space for attending classes.
 Avoid multitasking or using social media during class.
 
 # Class time
-10PM Australian time for those in Australia & 9PM Nigerian time for those in the UK & North America
+4AM Australian time for those in Australia & 7PM Nigerian time for those in the UK & North America
 
 ## Technical Requirements:
 
 Ensure your device and internet connection are reliable.
-Familiarize yourself with the online platform and required software.
+Familiarize yourself with the online platform and required software.Please do not use a phone to attend class, it is recommended that you login with a computer
 
 ## Payment
 $80 or 80,000 naira out of the amount you paid for training will be used to get you an Exam voucher. So, make sure you are not owning if you want to write a professional exam associated with the training, in case there are no free vouchers.
