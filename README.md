@@ -12,10 +12,11 @@ Notify the teacher in advance if you cannot attend a class.
 ## Respect and Courtesy:
 
 Treat the instructor and fellow students with respect in all communications.
-Raise your hand or use the chat feature to ask questions or make comments.
+Raise your hand or use the chat feature to ask questions or make comments.  
 Please I would like everyone to understand that your classmates come from different cultures and they stay in different countries  
 and as such they might not understand certain practices that we Nigerians are used to, do not write thank you sir to the trainer in  
-the whatsapp group, you can always send him a message to do so if need be.
+the Whatsapp group, you can always send him a message to do so if need be.
+
 
 ## No Distractions:
 
