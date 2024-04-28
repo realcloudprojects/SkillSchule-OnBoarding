@@ -70,13 +70,14 @@ https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft
 ## Official MSlearn link to learn C#
 https://learn.microsoft.com/en-us/training/paths/get-started-c-sharp-part-1/
 
-## How we get our voucher (valid till November 2023)
-https://digitalskillsnigeria.gov.ng/advanced/
-- make sure you choose advanced skills and certification
-- select AZ 104 as your preferred course, take the assessment, and make sure you score 60%
+## How we get our voucher 
 
 ## Another way to get a voucher
 - Register for the Cloud Skill Challenge from any major Microsoft event
+
+## GitHub Foundation Practice test and voucher  
+- Study https://learn.microsoft.com/en-us/collections/o1njfe825p602p
+- Pratice Test https://ghcertified.com/practice_tests/
 
 ##  Learn Markdown Language
 https://www.markdownguide.org/cheat-sheet/
