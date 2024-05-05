@@ -75,12 +75,13 @@ https://learn.microsoft.com/en-us/training/paths/get-started-c-sharp-part-1/
 ## Another way to get a voucher
 - Register for the Cloud Skill Challenge from any major Microsoft event
 
-## GitHub Foundation Practice test and voucher  
+## GitHub Foundation Practice test and study link  
 - Study https://learn.microsoft.com/en-us/collections/o1njfe825p602p
 - Pratice Test https://ghcertified.com/practice_tests/
 
 ##  Learn Markdown Language
 https://www.markdownguide.org/cheat-sheet/
+
   
 ## Start learning about Linux Commands to prepare you for Linux Class
 https://linuxcommandlibrary.com/
@@ -95,6 +96,9 @@ https://gist.github.com/PurpleVibe32/30a802c3c8ec902e1487024cdea26251
 
 ## Ubuntu Desktop image for your VMWare Workstation Pro
 https://ubuntu.com/download/desktop
+
+## How to enable virtualization using PowerShell
+https://www.makeuseof.com/windows-11-enable-hyper-v/#:~:text=In%20the%20Startup%20Menu%2C%20press,select%20Enabled%20from%20the%20options.
 
 ## Ubuntu MultiPass
 https://multipass.run/install
