@@ -1,4 +1,4 @@
-# SkillSchule-Cloud-DevOps May 2024 Cohort
+# SkillSchule-Cloud-DevOps September 2024 Cohort
 
 ## Introduction
 This is a high-level instructor-led virtual class designed to take participants from beginner to advanced level in Microsoft Azure.
