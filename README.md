@@ -32,7 +32,7 @@ Ensure your device and internet connection are reliable.
 Familiarize yourself with the online platform and required software.Please do not use a phone to attend class, it is recommended that you login with a computer
 
 ## Payment
-$80 or 80,000 naira out of the amount you paid for training will be used to get you an Exam voucher. So, make sure you are not owning if you want to write a professional exam associated with the training, in case there are no free vouchers.
+Make sure you are not owning
 
 ## Homework and Assignments:
 
