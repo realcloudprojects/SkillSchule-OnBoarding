@@ -32,7 +32,7 @@ Ensure your device and internet connection are reliable.
 Familiarize yourself with the online platform and required software.Please do not use a phone to attend class, it is recommended that you login with a computer
 
 ## Payment
-Make sure you are not owning
+Make sure you are not owing
 
 ## Homework and Assignments:
 
